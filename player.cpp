@@ -16,7 +16,7 @@ Player::setHealth(int h){
     HealthPoints = h;
 }
 Player::setMana(int m){
-    CurrentMana = h;
+    CurrentMana = m;
 }
 Player::~Player(){
 
